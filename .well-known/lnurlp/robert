@@ -1,0 +1,19 @@
+{
+   "status":"OK",
+   "tag":"payRequest",
+   "commentAllowed":255,
+   "callback":"https://getalby.com/lnurlp/hello/callback",
+   "metadata":"[[\"text/identifier\",\"robertmarshallxyz@getalby.com\"],[\"text/plain\",\"Sats for Robert\"]]",
+   "minSendable":1000,
+   "maxSendable":11000000000,
+   "payerData":{
+      "name":{
+         "mandatory":false
+      },
+      "email":{
+         "mandatory":false
+      }
+   },
+   "nostrPubkey":"eae34aa74679927c31abee5866cc606a3a97bfeb31bdcbde01f27b92a50cc73b",
+   "allowsNostr":true
+}
