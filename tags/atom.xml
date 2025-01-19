@@ -2,17 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robert Marshall</title>
-    <link>https://robertmarshall.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Robert Marshall</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://robertmarshall.xyz/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greek and Latin Literature</title>
+      <link>http://localhost:1313/tags/greek-and-latin-literature/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/greek-and-latin-literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic Poetry</title>
+      <link>http://localhost:1313/tags/classic-poetry/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classic-poetry/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Books</title>
-      <link>https://robertmarshall.xyz/tags/books/</link>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://robertmarshall.xyz/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French Literature</title>
+      <link>http://localhost:1313/tags/french-literature/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/french-literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>http://localhost:1313/tags/poetry/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biography</title>
+      <link>http://localhost:1313/tags/biography/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mythology</title>
+      <link>http://localhost:1313/tags/mythology/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mythology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nonfiction</title>
+      <link>http://localhost:1313/tags/nonfiction/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nonfiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>American History</title>
+      <link>http://localhost:1313/tags/american-history/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/american-history/</guid>
       <description></description>
     </item>
   </channel>

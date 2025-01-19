@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>American History on Robert Marshall</title>
+    <link>http://localhost:1313/tags/american-history/</link>
+    <description>Recent content in American History on Robert Marshall</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/american-history/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>John Ferling&#39;s The Apostles of Revolution</title>
+      <link>http://localhost:1313/posts/john-ferlings-the-apostles-of-revolution/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/john-ferlings-the-apostles-of-revolution/</guid>
+      <description>&lt;p&gt;John Ferling’s &lt;em&gt;The Apostles of Revolution&lt;/em&gt; is a masterfully written exploration of how the lives and ideas of Thomas Jefferson, Thomas Paine, and James Monroe helped shape not only the American Revolution but also the broader struggle for liberty across Europe. Reading it gave me a deeper understanding of the revolutionary era—not just as a series of political events, but as a moment of profound ideological transformation with global consequences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
