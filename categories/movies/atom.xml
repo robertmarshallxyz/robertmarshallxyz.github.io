@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Robert Marshall</title>
+    <link>https://robertmarshall.xyz/categories/movies/</link>
+    <description>Recent content in Movies on Robert Marshall</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://robertmarshall.xyz/categories/movies/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Strangelove and the Unchecked Perils of Technology</title>
+      <link>https://robertmarshall.xyz/posts/dr-strangelove-and-the-unchecked-perils-of-technology/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://robertmarshall.xyz/posts/dr-strangelove-and-the-unchecked-perils-of-technology/</guid>
+      <description>&lt;p&gt;Stanley Kubrick’s &lt;em&gt;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb&lt;/em&gt; (1964) remains one of the most insightful cinematic critiques of technological escalation, political hubris, and the illusion of control. Although the film satirises Cold War-era nuclear tensions, its themes extend beyond the nuclear arms race to modern existential threats—most notably, artificial intelligence. The same factors that make nuclear war a perilous and uncontrollable force—unchecked technological development, human fallibility, and the breakdown of decision-making systems—are now mirrored in the rapid advancement of AI. As we move deeper into an age of intelligent machines, &lt;em&gt;Dr. Strangelove&lt;/em&gt; serves as a cautionary tale for how blind faith in technology, combined with human misjudgement, can lead to irreversible consequences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

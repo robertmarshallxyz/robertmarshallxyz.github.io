@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Robert Marshall</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://robertmarshall.xyz/categories/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movies</title>
+      <link>https://robertmarshall.xyz/categories/movies/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://robertmarshall.xyz/categories/movies/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Loeb Classical Library</title>
       <link>https://robertmarshall.xyz/categories/loeb-classical-library/</link>
@@ -16,10 +23,17 @@
       <description></description>
     </item>
     <item>
-      <title>Library</title>
-      <link>https://robertmarshall.xyz/categories/library/</link>
+      <title>Everyman’s Library Pocket Poets Series</title>
+      <link>https://robertmarshall.xyz/categories/everymans-library-pocket-poets-series/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://robertmarshall.xyz/categories/library/</guid>
+      <guid>https://robertmarshall.xyz/categories/everymans-library-pocket-poets-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Library</title>
+      <link>https://robertmarshall.xyz/categories/my-library/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://robertmarshall.xyz/categories/my-library/</guid>
       <description></description>
     </item>
   </channel>
