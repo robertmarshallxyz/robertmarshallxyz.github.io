@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomy on Robert Marshall</title>
+    <link>https://robertmarshall.xyz/tags/autonomy/</link>
+    <description>Recent content in Autonomy on Robert Marshall</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://robertmarshall.xyz/tags/autonomy/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bomb and the Algorithm: How We Lost Control and Learned Nothing</title>
+      <link>https://robertmarshall.xyz/writings/the-bomb-and-the-algorithm-how-we-lost-control-and-learned-nothing/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://robertmarshall.xyz/writings/the-bomb-and-the-algorithm-how-we-lost-control-and-learned-nothing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Bomb and the Algorithm: How We Lost Control and Learned Nothing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stanley Kubrick’s &lt;em&gt;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb&lt;/em&gt; is often praised as a masterclass in satire, a barbed commentary on Cold War paranoia and military absurdity. But it is more than a film about nuclear weapons. It is a study in delegation—a portrait of what happens when men place machines between themselves and responsibility. Though made in 1964, long before neural nets and reinforcement learning, &lt;em&gt;Dr. Strangelove&lt;/em&gt; is arguably more prescient about artificial intelligence than most of the fiction written with that label.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
