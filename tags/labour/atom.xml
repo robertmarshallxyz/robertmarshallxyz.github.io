@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Politics on Robert Marshall</title>
-    <link>https://robertmarshall.xyz/tags/politics/</link>
-    <description>Recent content in Politics on Robert Marshall</description>
+    <title>Labour on Robert Marshall</title>
+    <link>https://robertmarshall.xyz/tags/labour/</link>
+    <description>Recent content in Labour on Robert Marshall</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://robertmarshall.xyz/tags/politics/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://robertmarshall.xyz/tags/labour/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tyranny of the Collective</title>
       <link>https://robertmarshall.xyz/writings/tyranny-of-the-collective/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://robertmarshall.xyz/writings/tyranny-of-the-collective/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Tyranny of the Collective&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The other day at work, someone asked me why I’m anti-union. It wasn’t an aggressive question, just an honest one. But it caught me slightly off guard. So I thought it was worth setting down, clearly and candidly, why I oppose unions—not out of spite or contrarianism, but because I believe they do more harm than good.&lt;/p&gt;&#xA;&lt;p&gt;There was a time when trade unions might have served a purpose. I can admit that. In the shadow of the Industrial Revolution, when the worker was more or less a replaceable cog in the machinery of capital, the idea of collective action held a certain rough justice. But like many ideas born in the furnace of necessity, the union has long outlived its usefulness in modern England. It now stands not as a bulwark for the oppressed, but as a sclerotic relic that throttles initiative, undermines merit, and entrenches mediocrity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Geometry of Rule</title>
-      <link>https://robertmarshall.xyz/writings/the-geometry-of-rule/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://robertmarshall.xyz/writings/the-geometry-of-rule/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The Geometry of Rule&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I first read &lt;em&gt;The Prince&lt;/em&gt; not out of admiration but suspicion. Its reputation preceded it like a dagger in a dim alley—&lt;em&gt;Machiavellian&lt;/em&gt;, after all, is a byword for cunning, deceit, and political amorality. Yet on reading the slim volume, I was struck not by wickedness, but by clarity. Machiavelli does not corrupt virtue; he strips it of illusion. He writes with the detachment of a surgeon, cutting away the fat of moral sentiment to expose the sinews of power.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
